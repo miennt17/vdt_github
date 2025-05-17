@@ -2,12 +2,15 @@
 
 ### Date created
 Include the date you created this project and README file.
+17/05/2025
 
 ### Project Title
 Replace the Project Title
+MY PROJECT
 
 ### Description
 Describe what your project is about and what it does
+My project is about data analysis
 
 ### Files used
 Include the files used
